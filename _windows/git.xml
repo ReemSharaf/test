@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git GUI.lnk" />
+    <option name="myPathToGit" value="https://github.com/ReemSharaf/test.git" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
